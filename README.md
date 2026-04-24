@@ -67,7 +67,7 @@ The analysis was guided by the following key business questions:
 # Visualization
 Charts were created using ggplot2 to visually communicate the findings: Bar Chart: Product Category vs Total Sales. Bar Chart: Region vs Total Profit. Histogram: Distribution of Sales Values. Scatter Plot: Relationship Between Discount and Profit. These visualizations help highlight sales performance patterns, profitability distribution, and pricing strategy effects.
 
-![Product Category by Total Sales](Product_Category_by_Total_Sales.png)
+![Category by Total Sales](Category_by_Total_Sales.png)
 
 Technology has the highest sales. Furniture comes next. Office Supplies has the lowest. Technology products are the best-selling category.
 
