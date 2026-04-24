@@ -67,11 +67,11 @@ The analysis was guided by the following key business questions:
 # Visualization
 Charts were created using ggplot2 to visually communicate the findings: Bar Chart: Product Category vs Total Sales. Bar Chart: Region vs Total Profit. Histogram: Distribution of Sales Values. Scatter Plot: Relationship Between Discount and Profit. These visualizations help highlight sales performance patterns, profitability distribution, and pricing strategy effects.
 
-![Product Category vs Total Sales](Product_Category_vs_Total_Sales.png)
+![Product Category by Total Sales](Product_Category_by_Total_Sales.png)
 
 Technology has the highest sales. Furniture comes next. Office Supplies has the lowest. Technology products are the best-selling category.
 
-![Region vs Total Profit](Region_Vs_Total_Profit.png)
+![Region vs Total Profit](Region_vs_Total_Profit.png)
 
 The West region is the most profitable area for the business. The East is also performing well. The Central region may need improvement (low profit could mean low sales or high costs)
 
